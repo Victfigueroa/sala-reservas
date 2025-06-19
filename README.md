@@ -55,4 +55,4 @@ Mantendríamos la suite actualizando y agregando pruebas con cada cambio, ademá
 ---
 
 Gracias por revisar nuestro trabajo.  
-Grupo 5 - Sala Reservas
+Grupo 5 - Sala Reservas.
