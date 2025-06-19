@@ -41,16 +41,16 @@ Mantendríamos la suite actualizando y agregando pruebas con cada cambio, ademá
 
 sala-reservas/
 ├── app/
-│ ├── init.py
-│ ├── reservas.py
-│ └── api.py
+│   ├── __init__.py
+│   ├── reservas.py
+│   └── api.py
 ├── tests/
-│ ├── test_reservas.py
-│ └── test_api.py
+│   ├── test_reservas.py
+│   └── test_api.py
 ├── requirements.txt
 └── .github/
-└── workflows/
-└── testing.yml
+    └── workflows/
+        └── testing.yml
 
 ---
 
