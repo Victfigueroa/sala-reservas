@@ -37,23 +37,6 @@ Mantendríamos la suite actualizando y agregando pruebas con cada cambio, ademá
 
 ---
 
-## Estructura del proyecto
-
-sala-reservas/
-├── app/
-│   ├── __init__.py
-│   ├── reservas.py
-│   └── api.py
-├── tests/
-│   ├── test_reservas.py
-│   └── test_api.py
-├── requirements.txt
-└── .github/
-    └── workflows/
-        └── testing.yml
-
----
-
 ## Tecnologías y herramientas usadas
 
 - Python 3.10+
